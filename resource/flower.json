@@ -1,0 +1,11 @@
+{
+    "name": "Flower",
+    "description": "Yellow!",
+    "image": "https://ipfs.io/ipfs/QmUDr5CeGMzUtpJFWkeYBGajoF9CHjP1azynoSG7KtePDB",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
